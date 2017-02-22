@@ -1,0 +1,8 @@
+.idea
+*.iml
+/build/
+/libs/
+/example_data/
+/example_data.zip
+/classes/
+/.gradle

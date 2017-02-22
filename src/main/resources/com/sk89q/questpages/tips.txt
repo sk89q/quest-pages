@@ -1,0 +1,6 @@
+Use option links in order to create divergent quest lines. Once the player goes down one path, the player is unable to go down the others. Use option links in order to create divergent quest lines. Once the player goes down one path, the player is unable to go down the others.
+Hold SHIFT and drag to select multiple quests at once, which lets you reposition quests in bulk. Use Cmd/CTRL if you want to select or unselect individual quests at a time.
+Turn on "detailed view" if you want to see which direction the quest links go. The arrow always points from the parent quest to the child quest.
+When typing a search into the item select dialog, press your ENTER key to switch to browsing the item list. Use your arrow keys to select your desired item and press ENTER again to select it.
+This editor is open source! If you want to add features or fix bugs, you can visit our repository through the Help menu.
+Double clicking on a quest on the book will immediately open the task editor dialog for the first task of that quest.
